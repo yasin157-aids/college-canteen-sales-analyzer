@@ -1,0 +1,78 @@
+Date,Time,Item,Category,Quantity,Price
+2026-09-01,08:30,Tea,Beverage,29,12
+2026-09-01,09:00,Samosa,Snack,21,15
+2026-09-01,09:30,Coffee,Beverage,10,20
+2026-09-01,10:30,Sandwich,Snack,13,30
+2026-09-01,12:30,Meals,Food,29,80
+2026-09-01,14:00,Cold Drink,Beverage,15,25
+2026-09-01,15:30,Tea,Beverage,19,12
+2026-09-01,16:00,Vada Pav,Snack,20,20
+2026-09-01,16:30,Samosa,Snack,23,15
+2026-09-01,17:00,Coffee,Beverage,8,20
+2026-09-01,17:30,Noodles,Food,14,50
+2026-09-02,08:30,Tea,Beverage,33,12
+2026-09-02,09:00,Samosa,Snack,26,15
+2026-09-02,09:30,Coffee,Beverage,11,20
+2026-09-02,11:00,Poha,Food,11,25
+2026-09-02,12:30,Meals,Food,37,80
+2026-09-02,13:00,Veg Biryani,Food,18,70
+2026-09-02,13:30,Chole Bhature,Food,15,60
+2026-09-02,15:30,Tea,Beverage,23,12
+2026-09-02,16:00,Vada Pav,Snack,19,20
+2026-09-02,16:30,Samosa,Snack,27,15
+2026-09-02,17:00,Coffee,Beverage,10,20
+2026-09-03,08:30,Tea,Beverage,29,12
+2026-09-03,09:00,Samosa,Snack,21,15
+2026-09-03,09:30,Coffee,Beverage,10,20
+2026-09-03,10:30,Sandwich,Snack,14,30
+2026-09-03,11:00,Poha,Food,11,25
+2026-09-03,12:30,Meals,Food,33,80
+2026-09-03,13:30,Chole Bhature,Food,13,60
+2026-09-03,15:30,Tea,Beverage,18,12
+2026-09-03,16:00,Vada Pav,Snack,17,20
+2026-09-03,16:30,Samosa,Snack,26,15
+2026-09-03,17:00,Coffee,Beverage,8,20
+2026-09-04,08:30,Tea,Beverage,36,12
+2026-09-04,09:00,Samosa,Snack,26,15
+2026-09-04,09:30,Coffee,Beverage,11,20
+2026-09-04,10:30,Sandwich,Snack,15,30
+2026-09-04,11:00,Poha,Food,15,25
+2026-09-04,12:30,Meals,Food,34,80
+2026-09-04,15:30,Tea,Beverage,24,12
+2026-09-04,16:00,Vada Pav,Snack,23,20
+2026-09-04,16:30,Samosa,Snack,28,15
+2026-09-04,17:00,Coffee,Beverage,10,20
+2026-09-04,17:30,Noodles,Food,17,50
+2026-09-05,08:30,Tea,Beverage,16,12
+2026-09-05,09:00,Samosa,Snack,16,15
+2026-09-05,09:30,Coffee,Beverage,5,20
+2026-09-05,11:00,Poha,Food,7,25
+2026-09-05,12:30,Meals,Food,18,80
+2026-09-05,13:00,Veg Biryani,Food,13,70
+2026-09-05,13:30,Chole Bhature,Food,10,60
+2026-09-05,15:30,Tea,Beverage,13,12
+2026-09-05,16:00,Vada Pav,Snack,13,20
+2026-09-05,16:30,Samosa,Snack,15,15
+2026-09-05,17:00,Coffee,Beverage,6,20
+2026-09-07,08:30,Tea,Beverage,34,12
+2026-09-07,09:00,Samosa,Snack,23,15
+2026-09-07,09:30,Coffee,Beverage,10,20
+2026-09-07,10:30,Sandwich,Snack,14,30
+2026-09-07,11:00,Poha,Food,14,25
+2026-09-07,12:30,Meals,Food,33,80
+2026-09-07,13:00,Veg Biryani,Food,24,70
+2026-09-07,15:30,Tea,Beverage,23,12
+2026-09-07,16:00,Vada Pav,Snack,23,20
+2026-09-07,16:30,Samosa,Snack,30,15
+2026-09-07,17:00,Coffee,Beverage,10,20
+2026-09-08,08:30,Tea,Beverage,24,12
+2026-09-08,09:00,Samosa,Snack,24,15
+2026-09-08,09:30,Coffee,Beverage,9,20
+2026-09-08,10:30,Sandwich,Snack,12,30
+2026-09-08,11:00,Poha,Food,10,25
+2026-09-08,12:30,Meals,Food,37,80
+2026-09-08,14:00,Cold Drink,Beverage,13,25
+2026-09-08,15:30,Tea,Beverage,20,12
+2026-09-08,16:30,Samosa,Snack,25,15
+2026-09-08,17:00,Coffee,Beverage,10,20
+2026-09-08,17:30,Noodles,Food,12,50
